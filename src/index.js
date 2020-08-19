@@ -11,7 +11,7 @@ import gon from 'gon';
 // import io from 'socket.io-client';
 
 if (process.env.NODE_ENV !== 'production') {
-  localStorage.debug = 'chat:*';
+  localStorage.debug = 'app:*';
 }
 
 console.log('it works!');
