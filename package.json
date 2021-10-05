@@ -33,7 +33,7 @@
     "fastify-formbody": "^4.0.3",
     "fastify-secure-session": "^1.2.0",
     "fastify-sensible": "^3.0.1",
-    "fastify-static": "^3.1.0",
+    "fastify-static": "^4.2.4",
     "formik": "^2.1.5",
     "js-cookie": "^2.2.1",
     "lodash": "^4.17.19",
